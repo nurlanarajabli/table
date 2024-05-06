@@ -1,0 +1,14 @@
+table,
+th,
+td {
+    border: 1px solid black;
+
+}
+
+.tr {
+    background-color: #33CCCC;
+}
+
+.model {
+    background-color: #FDDB5D;
+}
